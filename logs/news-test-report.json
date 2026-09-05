@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-09-03T09:37:10.011Z",
+  "totalTests": 5,
+  "passedTests": 5,
+  "failedTests": 0,
+  "successRate": "100.00%",
+  "results": [
+    {
+      "name": "News Data Integrity",
+      "passed": true
+    },
+    {
+      "name": "News List Display",
+      "passed": true
+    },
+    {
+      "name": "News Search Function",
+      "passed": true
+    },
+    {
+      "name": "News Edit Function",
+      "passed": true
+    },
+    {
+      "name": "News Delete Function",
+      "passed": true
+    }
+  ]
+}

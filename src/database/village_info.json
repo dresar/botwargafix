@@ -1,0 +1,42 @@
+{
+  "nama_desa": "Kampung Pulo Sarok",
+  "alamat": "Kelurahan Pulo Sarok, Kecamatan Singkil, Kabupaten Aceh Singkil, Provinsi Aceh",
+  "kepala_desa": "Yasmi Darliansyah (Keuchik)",
+  "kontak": "-",
+  "email": "-",
+  "website": "https://pulosarok.gampong.id",
+  "kode_pos": "24785",
+  "koordinat": "2°16'33.600\"N 97°48'32.400\"E",
+  "kode_kemendagri": "11.10.04.2003",
+  "kode_bps": "1102020003",
+  "jam_pelayanan": "08:00 - 16:00",
+  "fasilitas": [
+    "Gedung Pemuda Pemudi",
+    "Pantai Pulo Sarok",
+    "Kantor Keuchik"
+  ],
+  "sejarah": "Kampung Pulo Sarok merupakan salah satu kelurahan yang ada di Kecamatan Singkil, Kabupaten Aceh Singkil, Provinsi Aceh. Kampung ini terletak di kawasan pesisir dan memiliki pantai yang indah namun menghadapi tantangan abrasi pantai.",
+  "visi_misi": {
+    "visi": "Mewujudkan Kampung Pulo Sarok yang sejahtera, mandiri, dan berkelanjutan",
+    "misi": [
+      "Meningkatkan kesejahteraan masyarakat melalui pemberdayaan ekonomi lokal",
+      "Melestarikan lingkungan pesisir dan mengatasi masalah abrasi pantai",
+      "Mengembangkan sumber daya manusia yang berkualitas dan berakhlak mulia",
+      "Memperkuat gotong royong dan solidaritas masyarakat"
+    ]
+  },
+  "tantangan": [
+    "Abrasi pantai yang mengancam permukiman warga",
+    "Kerusakan lingkungan pesisir",
+    "Akses ekonomi yang terbatas"
+  ],
+  "potensi": [
+    "Wisata pantai",
+    "Perikanan",
+    "Budaya lokal Aceh"
+  ],
+  "organisasi": {
+    "bpkam": "Badan Permusyawaratan Kampung (BPKam)",
+    "ketua_bpkam": "Hawani"
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "passed": 104,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "File ./index.js",
+      "passed": true,
+      "message": "File exists",
+      "timestamp": "2025-09-03T09:35:20.306Z"
+    },
+    {
+      "name": "File ./src/controllers/adminCommandController.js",
+      "passed": true,
+      "message": "File exists",
+      "timestamp": "2025-09-03T09:35:20.307Z"
+    },
+    {
+      "name": "File ./src/controllers/idMenuController.js",
+      "passed": true,
+      "message": "File exists",
+      "timestamp": "2025-09-03T09:35:20.307Z"
+    },
+    {
+      "name": "File ./src/models/UnifiedModel.js",
+      "passed": true,
+      "message": "File exists",
+      "timestamp": "2025-09-03T09:35:20.307Z"
+    },
+    {
+      "name": "File ./src/database/initSQLiteDb.js",
+      "passed": true,
+      "message": "File exists",
+      "timestamp": "2025-09-03T09:35:20.307Z"
+    },
+    {
+      "name": "File ./package.json",
+      "passed": true,
+      "message": "File exists",
+      "timestamp": "2025-09-03T09:35:20.307Z"
+    },
+    {
+      "name": "Directory ./src",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.308Z"
+    },
+    {
+      "name": "Directory ./src/controllers",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.308Z"
+    },
+    {
+      "name": "Directory ./src/models",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.308Z"
+    },
+    {
+      "name": "Directory ./src/database",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.308Z"
+    },
+    {
+      "name": "Directory ./src/utils",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.309Z"
+    },
+    {
+      "name": "Directory ./uploads",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.309Z"
+    },
+    {
+      "name": "Directory ./logs",
+      "passed": true,
+      "message": "Directory exists",
+      "timestamp": "2025-09-03T09:35:20.309Z"
+    },
+    {
+      "name": "Config ./src/config/botSettings.json",
+      "passed": true,
+      "message": "Valid JSON configuration",
+      "timestamp": "2025-09-03T09:35:20.310Z"
+    },
+    {
+      "name": "Config ./src/config/villageSystemSettings.json",
+      "passed": true,
+      "message": "Valid JSON configuration",
+      "timestamp": "2025-09-03T09:35:20.311Z"
+    },
+    {
+      "name": "Config ./src/database/admins.json",
+      "passed": true,
+      "message": "Valid JSON configuration",
+      "timestamp": "2025-09-03T09:35:20.311Z"
+    },
+    {
+      "name": "Config ./src/database/config.json",
+      "passed": true,
+      "message": "Valid JSON configuration",
+      "timestamp": "2025-09-03T09:35:20.311Z"
+    },
+    {
+      "name": "Environment Variable NODE_ENV",
+      "passed": true,
+      "message": "Value: test",
+      "timestamp": "2025-09-03T09:35:20.312Z"
+    },
+    {
+      "name": ".env file",
+      "passed": true,
+      "message": ".env file exists",
+      "timestamp": "2025-09-03T09:35:20.312Z"
+    },
+    {
+      "name": "Database Initialization",
+      "passed": true,
+      "message": "Database created successfully",
+      "timestamp": "2025-09-03T09:35:20.318Z"
+    },
+    {
+      "name": "Table users exists",
+      "passed": true,
+      "message": "",
+      "timestamp": "2025-09-03T09:35:20.318Z"
+    },
+    {
+      "name": "Table admins exists",
+      "passed": true,
+      "message": "",
+      "timestamp": "2025-09-03T09:35:20.319Z"
+    },
+    {
+      "name": "Table complaints exists",
+      "passed": true,
+      "message": "",
+      "timestamp": "2025-09-03T09:35:20.319Z"
+    },
+    {
+      "name": "Table menu_contents exists",
+      "passed": true,
+      "message": "",
+      "timestamp": "2025-09-03T09:35:20.319Z"
+    },
+    {
+      "name": "Table umkm exists",
+      "passed": true,
+      "message": "",
+      "timestamp": "2025-09-03T09:35:20.319Z"
+    },
+    {
+      "name": "Table chat_memory exists",
+      "passed": true,
+      "message": "",
+      "timestamp": "2025-09-03T09:35:20.319Z"
+    },
+    {
+      "name": "UnifiedModel Creation",
+      "passed": true,
+      "message": "UnifiedModel created successfully",
+      "timestamp": "2025-09-03T09:35:20.319Z"
+    },
+    {
+      "name": "Menu Structure Loading",
+      "passed": true,
+      "message": "Menu structure loaded",
+      "timestamp": "2025-09-03T09:35:20.320Z"
+    },
+    {
+      "name": "Admin Loading",
+      "passed": true,
+      "message": "Found 3 admins",
+      "timestamp": "2025-09-03T09:35:20.320Z"
+    },
+    {
+      "name": "User Creation",
+      "passed": true,
+      "message": "Test user created",
+      "timestamp": "2025-09-03T09:35:20.320Z"
+    },
+    {
+      "name": "Main Menu",
+      "passed": true,
+      "message": "Main menu accessible",
+      "timestamp": "2025-09-03T09:35:20.323Z"
+    },
+    {
+      "name": "Menu Code 1",
+      "passed": true,
+      "message": "Menu 1 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Menu Code 2",
+      "passed": true,
+      "message": "Menu 2 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Menu Code 3",
+      "passed": true,
+      "message": "Menu 3 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Menu Code 4",
+      "passed": true,
+      "message": "Menu 4 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Menu Code 5",
+      "passed": true,
+      "message": "Menu 5 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Menu Code 6",
+      "passed": true,
+      "message": "Menu 6 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Menu Code 7",
+      "passed": true,
+      "message": "Menu 7 accessible",
+      "timestamp": "2025-09-03T09:35:20.324Z"
+    },
+    {
+      "name": "Sub-Menu Code 1A",
+      "passed": true,
+      "message": "Sub-menu 1A accessible",
+      "timestamp": "2025-09-03T09:35:20.325Z"
+    },
+    {
+      "name": "Sub-Menu Code 1B",
+      "passed": true,
+      "message": "Sub-menu 1B accessible",
+      "timestamp": "2025-09-03T09:35:20.325Z"
+    },
+    {
+      "name": "Sub-Menu Code 1C",
+      "passed": true,
+      "message": "Sub-menu 1C accessible",
+      "timestamp": "2025-09-03T09:35:20.326Z"
+    },
+    {
+      "name": "Sub-Menu Code 2A",
+      "passed": true,
+      "message": "Sub-menu 2A accessible",
+      "timestamp": "2025-09-03T09:35:20.326Z"
+    },
+    {
+      "name": "Sub-Menu Code 2B",
+      "passed": true,
+      "message": "Sub-menu 2B accessible",
+      "timestamp": "2025-09-03T09:35:20.326Z"
+    },
+    {
+      "name": "Sub-Menu Code 3A",
+      "passed": true,
+      "message": "Sub-menu 3A accessible",
+      "timestamp": "2025-09-03T09:35:20.326Z"
+    },
+    {
+      "name": "Sub-Menu Code 4A",
+      "passed": true,
+      "message": "Sub-menu 4A accessible",
+      "timestamp": "2025-09-03T09:35:20.327Z"
+    },
+    {
+      "name": "Sub-Menu Code 5A",
+      "passed": true,
+      "message": "Sub-menu 5A accessible",
+      "timestamp": "2025-09-03T09:35:20.327Z"
+    },
+    {
+      "name": "Sub-Menu Code 6A",
+      "passed": true,
+      "message": "Sub-menu 6A accessible",
+      "timestamp": "2025-09-03T09:35:20.327Z"
+    },
+    {
+      "name": "Sub-Menu Code 7A",
+      "passed": true,
+      "message": "Sub-menu 7A accessible",
+      "timestamp": "2025-09-03T09:35:20.327Z"
+    },
+    {
+      "name": "Admin Command !admin",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.327Z"
+    },
+    {
+      "name": "Admin Command !menu",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.327Z"
+    },
+    {
+      "name": "Admin Command !stats",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Admin Command !users",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Admin Command !complaints",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Admin Command !broadcast",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Admin Command !layananadd",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Admin Command !layanantemplate",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Admin Command !layananquick",
+      "passed": true,
+      "message": "Command format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Quick Access Code 1",
+      "passed": true,
+      "message": "Code 1 format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Quick Access Code 2",
+      "passed": true,
+      "message": "Code 2 format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Quick Access Code 3",
+      "passed": true,
+      "message": "Code 3 format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Quick Access Code 4",
+      "passed": true,
+      "message": "Code 4 format valid",
+      "timestamp": "2025-09-03T09:35:20.328Z"
+    },
+    {
+      "name": "Quick Access Code 5",
+      "passed": true,
+      "message": "Code 5 format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 6",
+      "passed": true,
+      "message": "Code 6 format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 7",
+      "passed": true,
+      "message": "Code 7 format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 1A",
+      "passed": true,
+      "message": "Code 1A format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 1B",
+      "passed": true,
+      "message": "Code 1B format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 1C",
+      "passed": true,
+      "message": "Code 1C format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 1D",
+      "passed": true,
+      "message": "Code 1D format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 1E",
+      "passed": true,
+      "message": "Code 1E format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 2A",
+      "passed": true,
+      "message": "Code 2A format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 2B",
+      "passed": true,
+      "message": "Code 2B format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 2C",
+      "passed": true,
+      "message": "Code 2C format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 2D",
+      "passed": true,
+      "message": "Code 2D format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 2E",
+      "passed": true,
+      "message": "Code 2E format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 3A",
+      "passed": true,
+      "message": "Code 3A format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 3B",
+      "passed": true,
+      "message": "Code 3B format valid",
+      "timestamp": "2025-09-03T09:35:20.329Z"
+    },
+    {
+      "name": "Quick Access Code 3C",
+      "passed": true,
+      "message": "Code 3C format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 3D",
+      "passed": true,
+      "message": "Code 3D format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 3E",
+      "passed": true,
+      "message": "Code 3E format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 4A",
+      "passed": true,
+      "message": "Code 4A format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 4B",
+      "passed": true,
+      "message": "Code 4B format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 4C",
+      "passed": true,
+      "message": "Code 4C format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 4D",
+      "passed": true,
+      "message": "Code 4D format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 4E",
+      "passed": true,
+      "message": "Code 4E format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 5A",
+      "passed": true,
+      "message": "Code 5A format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 5B",
+      "passed": true,
+      "message": "Code 5B format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 5C",
+      "passed": true,
+      "message": "Code 5C format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 5D",
+      "passed": true,
+      "message": "Code 5D format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 5E",
+      "passed": true,
+      "message": "Code 5E format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 6A",
+      "passed": true,
+      "message": "Code 6A format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 6B",
+      "passed": true,
+      "message": "Code 6B format valid",
+      "timestamp": "2025-09-03T09:35:20.330Z"
+    },
+    {
+      "name": "Quick Access Code 6C",
+      "passed": true,
+      "message": "Code 6C format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 6D",
+      "passed": true,
+      "message": "Code 6D format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 6E",
+      "passed": true,
+      "message": "Code 6E format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 7A",
+      "passed": true,
+      "message": "Code 7A format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 7B",
+      "passed": true,
+      "message": "Code 7B format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 7C",
+      "passed": true,
+      "message": "Code 7C format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 7D",
+      "passed": true,
+      "message": "Code 7D format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Quick Access Code 7E",
+      "passed": true,
+      "message": "Code 7E format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Special Command 'menu'",
+      "passed": true,
+      "message": "Command 'menu' format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Special Command 'reset'",
+      "passed": true,
+      "message": "Command 'reset' format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Special Command 'pengaduan'",
+      "passed": true,
+      "message": "Command 'pengaduan' format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Special Command 'kembali'",
+      "passed": true,
+      "message": "Command 'kembali' format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    },
+    {
+      "name": "Special Command '0'",
+      "passed": true,
+      "message": "Command '0' format valid",
+      "timestamp": "2025-09-03T09:35:20.331Z"
+    }
+  ]
+}

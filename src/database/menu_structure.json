@@ -1,0 +1,131 @@
+{
+  "main_menus": [
+    {
+      "id": 1,
+      "name": "Informasi Desa",
+      "description": "Informasi umum tentang desa",
+      "order": 1,
+      "active": true,
+      "sub_menus": [
+        {
+          "id": "1a",
+          "name": "Profil Desa",
+          "content_type": "village_info"
+        },
+        {
+          "id": "1b",
+          "name": "Struktur Organisasi",
+          "content_type": "text"
+        },
+        {
+          "id": "1c",
+          "name": "Visi & Misi",
+          "content_type": "village_info"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Layanan Publik",
+      "description": "Layanan yang tersedia untuk masyarakat",
+      "order": 2,
+      "active": true,
+      "sub_menus": [
+        {
+          "id": "2a",
+          "name": "Surat Keterangan",
+          "content_type": "text"
+        },
+        {
+          "id": "2b",
+          "name": "Pengaduan",
+          "content_type": "form"
+        },
+        {
+          "id": "2c",
+          "name": "Jam Pelayanan",
+          "content_type": "village_info"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "UMKM Desa",
+      "description": "Usaha Mikro Kecil Menengah di desa",
+      "order": 3,
+      "active": true,
+      "sub_menus": [
+        {
+          "id": "3a",
+          "name": "Daftar UMKM",
+          "content_type": "umkm_list"
+        },
+        {
+          "id": "3b",
+          "name": "Kategori UMKM",
+          "content_type": "umkm_category"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Formulir Pengaduan",
+      "description": "Formulir pengaduan masyarakat",
+      "order": 7,
+      "active": true,
+      "sub_menus": [
+        {
+          "id": "7a",
+          "name": "Data Pelapor",
+          "content_type": "form",
+          "fields": [
+            {
+              "name": "Nama",
+              "required": false
+            },
+            {
+              "name": "Alamat",
+              "required": false
+            },
+            {
+              "name": "Deskripsi",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "7b",
+          "name": "Status Pengaduan",
+          "content_type": "form",
+          "fields": [
+            {
+              "name": "Nomor Tiket",
+              "type": "text",
+              "readonly": true
+            },
+            {
+              "name": "Status",
+              "type": "text",
+              "readonly": true
+            }
+          ]
+        },
+        {
+          "id": "7c",
+          "name": "Riwayat",
+          "content_type": "list",
+          "fields": [
+            {
+              "name": "Nomor Tiket",
+              "type": "text"
+            },
+            {
+              "name": "Status",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

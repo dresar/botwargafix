@@ -1,0 +1,545 @@
+{
+  "menu_structure": {
+    "main_menus": [
+      {
+        "id": "1",
+        "title": "Administrasi Kependudukan",
+        "description": "Layanan administrasi kependudukan",
+        "icon": "🏛️",
+        "sub_menus": [
+          {
+            "id": "1A",
+            "title": "Kartu Tanda Penduduk (KTP)",
+            "description": "Pengurusan KTP baru, perpanjangan, dan perubahan data",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📄 *KARTU TANDA PENDUDUK (KTP)*\n\n📋 *Persyaratan:*\n• Fotokopi Kartu Keluarga\n• Fotokopi Akta Kelahiran\n• Pas foto 3x4 sebanyak 2 lembar\n• Surat pengantar dari RT/RW\n\n📝 *Prosedur:*\n1. Datang ke kantor desa dengan membawa persyaratan\n2. Mengisi formulir permohonan\n3. Verifikasi data oleh petugas\n4. Proses pencetakan KTP (3-7 hari kerja)\n5. Pengambilan KTP yang sudah jadi\n\n📞 *Kontak:*\nHubungi bagian administrasi desa di nomor (021) 123-4567\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi Kartu Keluarga",
+              "Fotokopi Akta Kelahiran",
+              "Pas foto 3x4 sebanyak 2 lembar",
+              "Surat pengantar dari RT/RW"
+            ],
+            "procedures": [
+              "Datang ke kantor desa dengan membawa persyaratan",
+              "Mengisi formulir permohonan",
+              "Verifikasi data oleh petugas",
+              "Proses pencetakan KTP (3-7 hari kerja)",
+              "Pengambilan KTP yang sudah jadi"
+            ],
+            "contact": {
+              "info": "Hubungi bagian administrasi desa di nomor (021) 123-4567"
+            }
+          },
+          {
+            "id": "1B",
+            "title": "Kartu Keluarga (KK)",
+            "description": "Pengurusan Kartu Keluarga baru dan perubahan data",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n👨‍👩‍👧‍👦 *KARTU KELUARGA (KK)*\n\n📋 *Persyaratan:*\n• Fotokopi KTP kepala keluarga\n• Fotokopi Akta Nikah/Cerai\n• Fotokopi Akta Kelahiran anak\n• Surat pengantar dari RT/RW\n\n📝 *Prosedur:*\n1. Mengajukan permohonan ke kantor desa\n2. Melengkapi formulir F-1.01\n3. Verifikasi data keluarga\n4. Proses pencetakan KK (5-10 hari kerja)\n5. Pengambilan KK yang sudah jadi\n\n📞 *Kontak:*\nHubungi bagian administrasi desa di nomor (021) 123-4567\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi KTP kepala keluarga",
+              "Fotokopi Akta Nikah/Cerai",
+              "Fotokopi Akta Kelahiran anak",
+              "Surat pengantar dari RT/RW"
+            ],
+            "procedures": [
+              "Mengajukan permohonan ke kantor desa",
+              "Melengkapi formulir F-1.01",
+              "Verifikasi data keluarga",
+              "Proses pencetakan KK (5-10 hari kerja)",
+              "Pengambilan KK yang sudah jadi"
+            ],
+            "contact": {
+              "info": "Hubungi bagian administrasi desa di nomor (021) 123-4567"
+            }
+          },
+          {
+            "id": "1C",
+            "title": "Akta Kelahiran",
+            "description": "Pengurusan akta kelahiran untuk bayi baru lahir",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n👶 *AKTA KELAHIRAN*\n\n📋 *Persyaratan:*\n• Surat keterangan lahir dari bidan/dokter\n• Fotokopi KTP orang tua\n• Fotokopi Kartu Keluarga\n• Fotokopi Akta Nikah orang tua\n\n📝 *Prosedur:*\n1. Mengajukan permohonan maksimal 60 hari setelah kelahiran\n2. Melengkapi formulir permohonan\n3. Verifikasi dokumen oleh petugas\n4. Proses pencetakan akta (7-14 hari kerja)\n5. Pengambilan akta kelahiran\n\n📞 *Kontak:*\nHubungi bagian administrasi desa di nomor (021) 123-4567\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Surat keterangan lahir dari bidan/dokter",
+              "Fotokopi KTP orang tua",
+              "Fotokopi Kartu Keluarga",
+              "Fotokopi Akta Nikah orang tua"
+            ],
+            "procedures": [
+              "Mengajukan permohonan maksimal 60 hari setelah kelahiran",
+              "Melengkapi formulir permohonan",
+              "Verifikasi dokumen oleh petugas",
+              "Proses pencetakan akta (7-14 hari kerja)",
+              "Pengambilan akta kelahiran"
+            ],
+            "contact": {
+              "info": "Hubungi bagian administrasi desa di nomor (021) 123-4567"
+            }
+          },
+          {
+            "id": "1D",
+            "title": "Surat Keterangan Domisili",
+            "description": "Pengurusan surat keterangan domisili/tempat tinggal",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏠 *SURAT KETERANGAN DOMISILI*\n\n📋 *Persyaratan:*\n• Fotokopi KTP\n• Fotokopi Kartu Keluarga\n• Surat pengantar dari RT/RW\n• Materai 10.000\n\n📝 *Prosedur:*\n1. Mengajukan permohonan ke kantor desa\n2. Mengisi formulir permohonan\n3. Verifikasi alamat tempat tinggal\n4. Penandatanganan surat oleh kepala desa\n5. Pengambilan surat keterangan (1-3 hari kerja)\n\n📞 *Kontak:*\nHubungi bagian administrasi desa di nomor (021) 123-4567\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi KTP",
+              "Fotokopi Kartu Keluarga",
+              "Surat pengantar dari RT/RW",
+              "Materai 10.000"
+            ],
+            "procedures": [
+              "Mengajukan permohonan ke kantor desa",
+              "Mengisi formulir permohonan",
+              "Verifikasi alamat tempat tinggal",
+              "Penandatanganan surat oleh kepala desa",
+              "Pengambilan surat keterangan (1-3 hari kerja)"
+            ],
+            "contact": {
+              "info": "Hubungi bagian administrasi desa di nomor (021) 123-4567"
+            }
+          },
+          {
+            "id": "1E",
+            "title": "Surat Keterangan Tidak Mampu (SKTM)",
+            "description": "Pengurusan surat keterangan tidak mampu untuk bantuan sosial",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n💰 *SURAT KETERANGAN TIDAK MAMPU (SKTM)*\n\n📋 *Persyaratan:*\n• Fotokopi KTP\n• Fotokopi Kartu Keluarga\n• Surat pengantar dari RT/RW\n• Surat keterangan penghasilan\n• Materai 10.000\n\n📝 *Prosedur:*\n1. Mengajukan permohonan dengan melampirkan persyaratan\n2. Survey kondisi ekonomi keluarga oleh petugas\n3. Verifikasi data oleh tim verifikasi desa\n4. Penandatanganan surat oleh kepala desa\n5. Pengambilan SKTM (3-7 hari kerja)\n\n📞 *Kontak:*\nHubungi bagian administrasi desa di nomor (021) 123-4567\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi KTP",
+              "Fotokopi Kartu Keluarga",
+              "Surat pengantar dari RT/RW",
+              "Surat keterangan penghasilan",
+              "Materai 10.000"
+            ],
+            "procedures": [
+              "Mengajukan permohonan dengan melampirkan persyaratan",
+              "Survey kondisi ekonomi keluarga oleh petugas",
+              "Verifikasi data oleh tim verifikasi desa",
+              "Penandatanganan surat oleh kepala desa",
+              "Pengambilan SKTM (3-7 hari kerja)"
+            ],
+            "contact": {
+              "info": "Hubungi bagian administrasi desa di nomor (021) 123-4567"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Perizinan",
+        "description": "Pengurusan izin dan perizinan",
+        "icon": "📋",
+        "sub_menus": [
+          {
+            "id": "2A",
+            "title": "Izin Mendirikan Bangunan (IMB)",
+            "description": "Pengurusan izin mendirikan bangunan rumah tinggal dan komersial",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏗️ *IZIN MENDIRIKAN BANGUNAN (IMB)*\n\n📋 *Persyaratan:*\n• Fotokopi sertifikat tanah\n• Fotokopi KTP pemilik\n• Gambar rencana bangunan\n• Surat pernyataan tidak keberatan dari tetangga\n\n📝 *Prosedur:*\n1. Mengajukan permohonan dengan melampirkan persyaratan\n2. Survey lokasi oleh tim teknis\n3. Evaluasi gambar rencana bangunan\n4. Penerbitan izin (14-21 hari kerja)\n5. Pengambilan IMB\n\n📞 *Kontak:*\nHubungi bagian perizinan desa di nomor (021) 234-5678\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi sertifikat tanah",
+              "Fotokopi KTP pemilik",
+              "Gambar rencana bangunan",
+              "Surat pernyataan tidak keberatan dari tetangga"
+            ],
+            "procedures": [
+              "Mengajukan permohonan dengan melampirkan persyaratan",
+              "Survey lokasi oleh tim teknis",
+              "Evaluasi gambar rencana bangunan",
+              "Penerbitan izin (14-21 hari kerja)",
+              "Pengambilan IMB"
+            ],
+            "contact": {
+              "info": "Hubungi bagian perizinan desa di nomor (021) 234-5678"
+            }
+          },
+          {
+            "id": "2B",
+            "title": "Izin Usaha Mikro Kecil (IUMK)",
+            "description": "Pengurusan izin usaha untuk UMKM",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏪 *IZIN USAHA MIKRO KECIL (IUMK)*\n\n📋 *Persyaratan:*\n• Fotokopi KTP pemilik usaha\n• Fotokopi Kartu Keluarga\n• Pas foto 3x4 sebanyak 2 lembar\n• Surat keterangan domisili usaha\n\n📝 *Prosedur:*\n1. Mengisi formulir permohonan IUMK\n2. Melampirkan persyaratan yang diperlukan\n3. Verifikasi lokasi usaha\n4. Proses penerbitan izin (7-14 hari kerja)\n5. Pengambilan IUMK\n\n📞 *Kontak:*\nHubungi bagian perizinan desa di nomor (021) 234-5678\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi KTP pemilik usaha",
+              "Fotokopi Kartu Keluarga",
+              "Pas foto 3x4 sebanyak 2 lembar",
+              "Surat keterangan domisili usaha"
+            ],
+            "procedures": [
+              "Mengisi formulir permohonan IUMK",
+              "Melampirkan persyaratan yang diperlukan",
+              "Verifikasi lokasi usaha",
+              "Proses penerbitan izin (7-14 hari kerja)",
+              "Pengambilan IUMK"
+            ],
+            "contact": {
+              "info": "Hubungi bagian perizinan desa di nomor (021) 234-5678"
+            }
+          },
+          {
+            "id": "2C",
+            "title": "Izin Keramaian",
+            "description": "Pengurusan izin untuk acara keramaian dan hiburan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🎉 *IZIN KERAMAIAN*\n\n📋 *Persyaratan:*\n• Surat permohonan izin keramaian\n• Fotokopi KTP penyelenggara\n• Rencana acara dan rundown\n• Surat pernyataan tanggung jawab\n\n📝 *Prosedur:*\n1. Mengajukan permohonan minimal 7 hari sebelum acara\n2. Koordinasi dengan aparat keamanan\n3. Verifikasi lokasi dan rencana acara\n4. Penerbitan izin keramaian\n5. Pelaksanaan acara sesuai izin\n\n📞 *Kontak:*\nHubungi bagian perizinan desa di nomor (021) 234-5678\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Surat permohonan izin keramaian",
+              "Fotokopi KTP penyelenggara",
+              "Rencana acara dan rundown",
+              "Surat pernyataan tanggung jawab"
+            ],
+            "procedures": [
+              "Mengajukan permohonan minimal 7 hari sebelum acara",
+              "Koordinasi dengan aparat keamanan",
+              "Verifikasi lokasi dan rencana acara",
+              "Penerbitan izin keramaian",
+              "Pelaksanaan acara sesuai izin"
+            ],
+            "contact": {
+              "info": "Hubungi bagian perizinan desa di nomor (021) 234-5678"
+            }
+          },
+          {
+            "id": "2D",
+            "title": "Izin Lingkungan",
+            "description": "Pengurusan izin terkait lingkungan hidup",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🌱 *IZIN LINGKUNGAN*\n\n📋 *Persyaratan:*\n• Dokumen AMDAL/UKL-UPL\n• Fotokopi KTP pemohon\n• Surat pernyataan komitmen lingkungan\n• Peta lokasi kegiatan\n\n📝 *Prosedur:*\n1. Mengajukan permohonan dengan dokumen lengkap\n2. Evaluasi dampak lingkungan\n3. Konsultasi publik jika diperlukan\n4. Penerbitan izin lingkungan (21-30 hari kerja)\n5. Monitoring pelaksanaan\n\n📞 *Kontak:*\nHubungi bagian perizinan desa di nomor (021) 234-5678\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Dokumen AMDAL/UKL-UPL",
+              "Fotokopi KTP pemohon",
+              "Surat pernyataan komitmen lingkungan",
+              "Peta lokasi kegiatan"
+            ],
+            "procedures": [
+              "Mengajukan permohonan dengan dokumen lengkap",
+              "Evaluasi dampak lingkungan",
+              "Konsultasi publik jika diperlukan",
+              "Penerbitan izin lingkungan (21-30 hari kerja)",
+              "Monitoring pelaksanaan"
+            ],
+            "contact": {
+              "info": "Hubungi bagian perizinan desa di nomor (021) 234-5678"
+            }
+          },
+          {
+            "id": "2E",
+            "title": "Izin Tempat Usaha",
+            "description": "Pengurusan izin tempat usaha dan perdagangan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏢 *IZIN TEMPAT USAHA*\n\n📋 *Persyaratan:*\n• Fotokopi KTP pemilik usaha\n• Fotokopi sertifikat/kontrak tempat usaha\n• Denah lokasi usaha\n• Surat pernyataan tidak mengganggu lingkungan\n\n📝 *Prosedur:*\n1. Mengajukan permohonan izin tempat usaha\n2. Survey lokasi oleh petugas\n3. Evaluasi kelayakan tempat usaha\n4. Penerbitan izin (10-14 hari kerja)\n5. Pengambilan izin tempat usaha\n\n📞 *Kontak:*\nHubungi bagian perizinan desa di nomor (021) 234-5678\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB",
+            "requirements": [
+              "Fotokopi KTP pemilik usaha",
+              "Fotokopi sertifikat/kontrak tempat usaha",
+              "Denah lokasi usaha",
+              "Surat pernyataan tidak mengganggu lingkungan"
+            ],
+            "procedures": [
+              "Mengajukan permohonan izin tempat usaha",
+              "Survey lokasi oleh petugas",
+              "Evaluasi kelayakan tempat usaha",
+              "Penerbitan izin (10-14 hari kerja)",
+              "Pengambilan izin tempat usaha"
+            ],
+            "contact": {
+              "info": "Hubungi bagian perizinan desa di nomor (021) 234-5678"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Kesehatan",
+        "description": "Informasi kesehatan masyarakat",
+        "icon": "🏥",
+        "sub_menus": [
+          {
+            "id": "3A",
+            "title": "Posyandu",
+            "description": "Jadwal dan informasi kegiatan Posyandu",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏥 *POSYANDU*\n\n📋 *Yang Perlu Dibawa:*\n• Kartu Identitas Anak (KIA) untuk balita\n• Buku KMS (Kartu Menuju Sehat)\n• Kartu vaksinasi\n\n📝 *Prosedur:*\n1. Datang ke Posyandu sesuai jadwal\n2. Pendaftaran di meja registrasi\n3. Penimbangan dan pengukuran tinggi badan\n4. Konsultasi dengan bidan/perawat\n5. Pemberian vitamin dan imunisasi jika diperlukan\n\n📅 *Jadwal Posyandu:*\nSetiap hari Kamis minggu ke-2 dan ke-4\nPukul 08:00 - 11:00 WIB\n\n📞 *Kontak:*\nHubungi bidan desa di nomor (021) 345-6789",
+            "requirements": [
+              "Kartu Identitas Anak (KIA) untuk balita",
+              "Buku KMS (Kartu Menuju Sehat)",
+              "Kartu vaksinasi"
+            ],
+            "procedures": [
+              "Datang ke Posyandu sesuai jadwal",
+              "Pendaftaran di meja registrasi",
+              "Penimbangan dan pengukuran tinggi badan",
+              "Konsultasi dengan bidan/perawat",
+              "Pemberian vitamin dan imunisasi jika diperlukan"
+            ],
+            "contact": {
+              "info": "Hubungi kader Posyandu di nomor (021) 345-6789"
+            }
+          },
+          {
+            "id": "3B",
+            "title": "Puskesmas",
+            "description": "Informasi layanan Puskesmas terdekat",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏥 *PUSKESMAS*\n\n📋 *Yang Perlu Dibawa:*\n• Kartu identitas (KTP/KK)\n• Kartu BPJS Kesehatan (jika ada)\n• Surat rujukan (untuk kasus tertentu)\n\n📝 *Prosedur:*\n1. Pendaftaran di loket Puskesmas\n2. Pemeriksaan awal oleh perawat\n3. Konsultasi dengan dokter\n4. Pengambilan obat di apotek Puskesmas\n5. Kontrol ulang sesuai anjuran dokter\n\n⏰ *Jam Layanan:*\nSenin - Sabtu: 07:00 - 14:00 WIB\nMinggu: 08:00 - 12:00 WIB\n\n📞 *Kontak:*\nPuskesmas Pulosarok: (021) 345-6789",
+            "requirements": [
+              "Kartu identitas (KTP/KK)",
+              "Kartu BPJS Kesehatan (jika ada)",
+              "Surat rujukan (untuk kasus tertentu)"
+            ],
+            "procedures": [
+              "Pendaftaran di loket Puskesmas",
+              "Pemeriksaan awal oleh perawat",
+              "Konsultasi dengan dokter",
+              "Pengambilan obat di apotek Puskesmas",
+              "Kontrol ulang sesuai anjuran dokter"
+            ],
+            "contact": {
+              "info": "Puskesmas Pulosarok: (021) 345-6789"
+            }
+          },
+          {
+            "id": "3C",
+            "title": "Program Vaksinasi",
+            "description": "Jadwal dan informasi program vaksinasi",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n💉 *PROGRAM VAKSINASI*\n\n📋 *Yang Perlu Dibawa:*\n• Kartu vaksinasi\n• Kartu identitas\n• Surat keterangan sehat (untuk vaksin tertentu)\n\n📝 *Prosedur:*\n1. Pendaftaran program vaksinasi\n2. Screening kesehatan\n3. Pemberian vaksin oleh tenaga medis\n4. Observasi pasca vaksinasi\n5. Pencatatan di kartu vaksinasi\n\n📅 *Jadwal Vaksinasi:*\nSetiap hari Selasa dan Jumat\nPukul 08:00 - 11:00 WIB\n\n📞 *Kontak:*\nHubungi Puskesmas untuk jadwal vaksinasi: (021) 345-6789",
+            "requirements": [
+              "Kartu vaksinasi",
+              "Kartu identitas",
+              "Surat keterangan sehat (untuk vaksin tertentu)"
+            ],
+            "procedures": [
+              "Pendaftaran program vaksinasi",
+              "Screening kesehatan",
+              "Pemberian vaksin oleh tenaga medis",
+              "Observasi pasca vaksinasi",
+              "Pencatatan di kartu vaksinasi"
+            ],
+            "contact": {
+              "info": "Hubungi Puskesmas untuk jadwal vaksinasi: (021) 345-6789"
+            }
+          },
+          {
+            "id": "3D",
+            "title": "Kesehatan Ibu dan Anak",
+            "description": "Program kesehatan untuk ibu hamil dan anak",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n👶 *KESEHATAN IBU DAN ANAK*\n\n📋 *Yang Perlu Dibawa:*\n• Buku KIA (Kesehatan Ibu dan Anak)\n• Kartu identitas\n• Hasil pemeriksaan laboratorium (jika ada)\n\n📝 *Program Layanan:*\n1. Pemeriksaan rutin kehamilan\n2. Konseling gizi dan kesehatan\n3. Pemberian tablet tambah darah\n4. Persiapan persalinan\n5. Pemantauan tumbuh kembang anak\n\n📅 *Jadwal Pemeriksaan:*\nSetiap hari Senin dan Rabu\nPukul 09:00 - 12:00 WIB\n\n📞 *Kontak:*\nHubungi bidan desa di nomor (021) 345-6789",
+            "requirements": [
+              "Buku KIA (Kesehatan Ibu dan Anak)",
+              "Kartu identitas",
+              "Hasil pemeriksaan laboratorium (jika ada)"
+            ],
+            "procedures": [
+              "Pemeriksaan rutin kehamilan",
+              "Konseling gizi dan kesehatan",
+              "Pemberian tablet tambah darah",
+              "Persiapan persalinan",
+              "Pemantauan tumbuh kembang anak"
+            ],
+            "contact": {
+              "info": "Hubungi bidan desa di nomor (021) 345-6789"
+            }
+          },
+          {
+            "id": "3E",
+            "title": "Sanitasi dan Kebersihan",
+            "description": "Program sanitasi dan kebersihan lingkungan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🧹 *SANITASI DAN KEBERSIHAN*\n\n📋 *Syarat Partisipasi:*\n• Partisipasi aktif masyarakat\n• Komitmen menjaga kebersihan\n\n📝 *Program Kegiatan:*\n1. Sosialisasi program sanitasi\n2. Pembentukan kelompok kerja\n3. Pelaksanaan kegiatan bersih-bersih\n4. Monitoring dan evaluasi\n5. Pemberian penghargaan untuk desa bersih\n\n📅 *Jadwal Kegiatan:*\nSetiap hari Sabtu minggu pertama\nPukul 06:00 - 09:00 WIB\n\n📞 *Kontak:*\nHubungi sekretaris desa di nomor (021) 123-4567",
+            "requirements": [
+              "Partisipasi aktif masyarakat",
+              "Komitmen menjaga kebersihan"
+            ],
+            "procedures": [
+              "Sosialisasi program sanitasi",
+              "Pembentukan kelompok kerja",
+              "Pelaksanaan kegiatan bersih-bersih",
+              "Monitoring dan evaluasi",
+              "Pemberian penghargaan untuk desa bersih"
+            ],
+            "contact": {
+              "info": "Hubungi sekretaris desa di nomor (021) 123-4567"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Informasi Desa",
+        "description": "Berita dan informasi desa",
+        "icon": "📰",
+        "sub_menus": [
+          {
+            "id": "4A",
+            "title": "Berita Terkini",
+            "description": "Berita dan pengumuman terbaru dari desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📰 *BERITA TERKINI*\n\n{{DYNAMIC_NEWS_LIST}}\n\n📅 *Update Berkala:*\nBerita diperbarui setiap hari\n\n📞 *Redaksi:*\nHubungi sekretaris desa untuk informasi lebih lanjut\n(021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "4B",
+            "title": "Profil Desa",
+            "description": "Informasi profil dan sejarah Desa Pulosarok",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏘️ *PROFIL DESA PULOSAROK*\n\n📍 *Lokasi Strategis:*\nDesa Pulosarok terletak di wilayah yang strategis dengan akses mudah ke berbagai fasilitas umum.\n\n🌾 *Potensi Unggulan:*\n• Sektor pertanian yang subur\n• UMKM yang berkembang pesat\n• Pariwisata alam yang menarik\n• Kerajinan tangan tradisional\n\n🎯 *Visi Desa:*\nMenjadi desa mandiri, sejahtera, dan berkelanjutan\n\n📞 *Informasi Lebih Lanjut:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "4C",
+            "title": "Struktur Pemerintahan",
+            "description": "Struktur organisasi pemerintahan desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n👥 *STRUKTUR PEMERINTAHAN DESA*\n\n🏛️ *Pimpinan Desa:*\n• Kepala Desa: Bapak Ahmad Suryadi\n• Sekretaris Desa: Ibu Siti Nurhaliza\n\n💼 *Kepala Urusan:*\n• Kaur Keuangan: Bapak Bambang Wijaya\n• Kaur Umum: Ibu Dewi Sartika\n• Kaur Pembangunan: Bapak Joko Santoso\n• Kaur Kesejahteraan: Ibu Rina Marlina\n\n⏰ *Jam Kerja:*\nSenin - Jumat: 08:00 - 15:00 WIB\n\n📞 *Kontak:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "4D",
+            "title": "Agenda Kegiatan",
+            "description": "Jadwal kegiatan dan acara desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📅 *AGENDA KEGIATAN DESA*\n\n🔔 *Pengumuman Kegiatan:*\nAgenda kegiatan desa akan diumumkan melalui:\n• Papan pengumuman kantor desa\n• Grup WhatsApp resmi desa\n• Website desa (jika tersedia)\n• Pengeras suara masjid\n\n📋 *Jenis Kegiatan Rutin:*\n• Rapat RT/RW bulanan\n• Gotong royong mingguan\n• Posyandu bulanan\n• Kegiatan keagamaan\n• Festival desa tahunan\n\n📞 *Informasi Kegiatan:*\nSekretaris Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "4E",
+            "title": "Kontak Penting",
+            "description": "Daftar kontak penting di desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📞 *KONTAK PENTING DESA*\n\n🏛️ *Pemerintahan:*\n• Kantor Desa: (021) 123-4567\n• Kepala Desa: 0812-xxxx-xxxx\n• Sekretaris Desa: 0813-xxxx-xxxx\n\n🏥 *Kesehatan:*\n• Puskesmas: (021) 345-6789\n• Bidan Desa: 0814-xxxx-xxxx\n\n🚨 *Keamanan & Darurat:*\n• Polsek: (021) 987-6543\n• Damkar: (021) 456-7890\n• Ambulans: 118\n\n⚡ *Utilitas:*\n• PLN: 123\n• PDAM: (021) 234-5678\n\n📍 *Alamat Kantor Desa:*\nJl. Raya Pulosarok No. 123\nDesa Pulosarok, Kecamatan XXX\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Informasi UMKM",
+        "description": "Informasi UMKM desa",
+        "icon": "🏪",
+        "sub_menus": [
+          {
+            "id": "5A",
+            "title": "Daftar UMKM",
+            "description": "Daftar lengkap UMKM di desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏪 *DAFTAR UMKM DESA*\n\n{{DYNAMIC_UMKM_LIST}}\n\n📋 *Kategori UMKM:*\n• Kuliner & Makanan\n• Kerajinan Tangan\n• Jasa & Layanan\n• Pertanian & Perkebunan\n\n📞 *Informasi Pendaftaran:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "5B",
+            "title": "UMKM Kuliner",
+            "description": "UMKM bidang kuliner dan makanan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🍽️ *UMKM KULINER DESA*\n\n{{DYNAMIC_UMKM_KULINER}}\n\n🥘 *Jenis Kuliner Unggulan:*\n• Makanan tradisional\n• Camilan khas desa\n• Minuman herbal\n• Produk olahan pertanian\n\n📞 *Informasi Kemitraan:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "5C",
+            "title": "UMKM Kerajinan",
+            "description": "UMKM bidang kerajinan dan handicraft",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🎨 *UMKM KERAJINAN DESA*\n\n{{DYNAMIC_UMKM_KERAJINAN}}\n\n✋ *Jenis Kerajinan:*\n• Kerajinan bambu\n• Anyaman pandan\n• Ukiran kayu\n• Batik tulis\n• Keramik tradisional\n\n📞 *Informasi Pelatihan:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "5D",
+            "title": "UMKM Jasa",
+            "description": "UMKM bidang jasa dan layanan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🔧 *UMKM JASA DESA*\n\n{{DYNAMIC_UMKM_JASA}}\n\n⚙️ *Jenis Layanan:*\n• Jasa perbaikan\n• Layanan transportasi\n• Jasa kebersihan\n• Konsultasi pertanian\n• Jasa catering\n\n📞 *Informasi Layanan:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "5E",
+            "title": "Bantuan UMKM",
+            "description": "Informasi bantuan dan program untuk UMKM",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n💰 *BANTUAN & PROGRAM UMKM*\n\n🎯 *Program Bantuan Tersedia:*\n• Dana desa untuk modal usaha\n• Pelatihan kewirausahaan\n• Bantuan pemasaran online\n• Kerjasama dengan lembaga keuangan\n• Program inkubator bisnis\n\n📋 *Syarat Bantuan:*\n• Warga desa yang terdaftar\n• Memiliki usaha atau rencana usaha\n• Mengikuti pelatihan yang diberikan\n\n📞 *Informasi & Pendaftaran:*\nKantor Desa: (021) 123-4567\nJam Layanan: Senin-Jumat 08:00-15:00\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Cari Berita",
+        "description": "Pencarian berita dan informasi",
+        "icon": "🔍",
+        "sub_menus": [
+          {
+            "id": "6A",
+            "title": "Cari Berita Terbaru",
+            "description": "Pencarian berita berdasarkan kata kunci",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🔍 *PENCARIAN BERITA*\n\n📝 *Cara Mencari:*\nKetik kata kunci untuk mencari berita yang Anda inginkan.\n\n🔎 *Tips Pencarian:*\n• Gunakan kata kunci spesifik\n• Coba variasi kata yang berbeda\n• Gunakan tanda kutip untuk pencarian tepat\n\n📋 *Kategori Berita:*\n• Pemerintahan desa\n• Pembangunan infrastruktur\n• Kegiatan sosial\n• Program kesehatan\n• UMKM dan ekonomi\n\n📞 *Bantuan Pencarian:*\nSekretaris Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "6B",
+            "title": "Berita Pemerintahan",
+            "description": "Berita terkait pemerintahan desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏛️ *BERITA PEMERINTAHAN DESA*\n\n{{DYNAMIC_NEWS_PEMERINTAHAN}}\n\n📋 *Kategori Berita Pemerintahan:*\n• Kebijakan desa terbaru\n• Rapat dan keputusan penting\n• Program pemerintah desa\n• Peraturan dan regulasi\n\n📞 *Informasi Lebih Lanjut:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "6C",
+            "title": "Berita Pembangunan",
+            "description": "Berita terkait pembangunan desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏗️ *BERITA PEMBANGUNAN DESA*\n\n{{DYNAMIC_NEWS_PEMBANGUNAN}}\n\n🔨 *Jenis Pembangunan:*\n• Infrastruktur jalan\n• Fasilitas umum\n• Sarana air bersih\n• Pembangunan gedung\n• Renovasi fasilitas\n\n📞 *Informasi Proyek:*\nKantor Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "6D",
+            "title": "Berita Sosial",
+            "description": "Berita kegiatan sosial masyarakat",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n👥 *BERITA KEGIATAN SOSIAL*\n\n{{DYNAMIC_NEWS_SOSIAL}}\n\n🤝 *Jenis Kegiatan Sosial:*\n• Gotong royong masyarakat\n• Kegiatan keagamaan\n• Festival dan perayaan\n• Bantuan sosial\n• Kegiatan pemuda\n\n📞 *Informasi Kegiatan:*\nSekretaris Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "6E",
+            "title": "Arsip Berita",
+            "description": "Arsip berita bulan sebelumnya",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📚 *ARSIP BERITA DESA*\n\n{{DYNAMIC_NEWS_ARCHIVE}}\n\n📅 *Periode Arsip:*\n• Berita bulan lalu\n• Berita 3 bulan terakhir\n• Berita tahunan\n• Dokumentasi kegiatan\n\n🔍 *Cara Akses:*\nPilih periode yang diinginkan atau gunakan pencarian\n\n📞 *Bantuan Arsip:*\nSekretaris Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Aduan Layanan",
+        "description": "Aduan layanan publik",
+        "icon": "📝",
+        "sub_menus": [
+          {
+            "id": "7A",
+            "title": "Buat Pengaduan",
+            "description": "Membuat pengaduan baru",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📝 *TUTORIAL MELAPORKAN ADUAN*\n\n🔹 *Format Pengaduan:*\nUntuk melaporkan aduan, gunakan format berikut:\n\n*Aduan*\nNama: [nama lengkap Anda]\nAlamat: [alamat lengkap RT/RW]\nKeluhan: [jelaskan keluhan Anda]\nFoto: [opsional - kirim foto jika ada]\n\n📋 *Contoh Penggunaan:*\n\nAduan\nNama: Budi Santoso\nAlamat: Dusun Krajan RT 02/RW 03 Desa Pulosarok\nKeluhan: Jalan rusak di depan rumah saya, banyak lubang yang membahayakan pengendara\nFoto: [kirim foto kondisi jalan]\n\n⚠️ *Penting:*\n• Pastikan semua data terisi lengkap\n• Gunakan kata kunci 'Aduan' di awal pesan\n• Foto bersifat opsional tapi sangat membantu\n• Aduan akan diproses maksimal 3x24 jam\n\n📞 *Kontak Darurat:*\n• Kepala Desa: 0812-xxxx-xxxx\n• Sekretaris Desa: 0813-xxxx-xxxx\n\n✅ Setelah mengirim aduan, Anda akan mendapat ID pengaduan untuk tracking status.\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "7B",
+            "title": "Status Pengaduan",
+            "description": "Cek status pengaduan yang telah diajukan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📊 *STATUS PENGADUAN*\n\n🔍 *Cara Cek Status:*\nMasukkan nomor ID pengaduan yang telah Anda terima untuk mengecek status terkini.\n\n📋 *Status Pengaduan:*\n• 🟡 Diterima - Pengaduan telah diterima\n• 🔵 Diproses - Sedang dalam penanganan\n• 🟢 Selesai - Pengaduan telah ditindaklanjuti\n• 🔴 Ditolak - Pengaduan tidak dapat diproses\n\n📞 *Bantuan:*\nJika ada kendala, hubungi admin di nomor (021) 123-4567\n\n⏰ *Jam Layanan:*\nSenin - Jumat: 08:00 - 15:00 WIB\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "7C",
+            "title": "Pengaduan Infrastruktur",
+            "description": "Pengaduan terkait infrastruktur desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🛣️ *PENGADUAN INFRASTRUKTUR*\n\n📝 *Jenis Pengaduan:*\n• Kerusakan jalan dan gang\n• Kerusakan jembatan\n• Masalah drainase/selokan\n• Kerusakan fasilitas umum\n• Masalah penerangan jalan\n\n📋 *Format Laporan:*\nGunakan format standar dengan menambahkan:\n- Lokasi spesifik kerusakan\n- Tingkat kerusakan (ringan/sedang/berat)\n- Dampak yang ditimbulkan\n\n📞 *Kontak Teknis:*\nBagian Pembangunan: (021) 234-5678\n\n⚠️ *Prioritas Penanganan:*\n• Darurat: 1x24 jam\n• Mendesak: 3x24 jam\n• Normal: 7x24 jam\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "7D",
+            "title": "Pengaduan Pelayanan",
+            "description": "Pengaduan terkait pelayanan publik",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏢 *PENGADUAN PELAYANAN*\n\n📝 *Jenis Pengaduan:*\n• Pelayanan administrasi\n• Sikap petugas\n• Waktu tunggu yang lama\n• Prosedur yang berbelit\n• Biaya tidak sesuai\n\n📋 *Informasi yang Diperlukan:*\n• Jenis layanan yang dikeluhkan\n• Waktu kejadian\n• Nama petugas (jika ada)\n• Detail masalah\n\n📞 *Kontak Pengaduan:*\nSekretaris Desa: (021) 123-4567\n\n✅ *Komitmen Kami:*\nSetiap pengaduan akan ditindaklanjuti dengan perbaikan sistem pelayanan\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "7E",
+            "title": "Saran dan Masukan",
+            "description": "Saran untuk perbaikan layanan",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n💡 *SARAN DAN MASUKAN*\n\n📝 *Jenis Saran:*\n• Perbaikan sistem pelayanan\n• Inovasi program desa\n• Peningkatan fasilitas\n• Kegiatan kemasyarakatan\n• Pembangunan desa\n\n📋 *Format Saran:*\nSampaikan saran Anda dengan:\n- Bidang yang disarankan\n- Usulan perbaikan\n- Manfaat yang diharapkan\n- Cara implementasi (opsional)\n\n🏆 *Apresiasi:*\nSaran terbaik akan mendapat apresiasi dari pemerintah desa\n\n📞 *Kontak:*\nKepala Desa: (021) 123-4567\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "UMKM Desa",
+        "description": "Informasi UMKM dan usaha lokal",
+        "icon": "🏪",
+        "sub_menus": [
+          {
+            "id": "8A",
+            "title": "Daftar UMKM",
+            "description": "Lihat daftar semua UMKM di desa",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏪 *DAFTAR UMKM DESA PULOSAROK*\n\n{{DYNAMIC_UMKM_LIST}}\n\n💡 *Cara Melihat Detail:*\n• Ketik *8B* untuk melihat detail UMKM\n• Pilih nomor UMKM yang ingin dilihat\n\n📞 *Informasi UMKM:*\nBagian Ekonomi Desa: (021) 345-6789\n\n🕒 *Update Terakhir:*\nData UMKM diperbarui setiap bulan\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "8B",
+            "title": "Detail UMKM",
+            "description": "Lihat detail lengkap UMKM tertentu",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n🏪 *DETAIL UMKM*\n\n{{DYNAMIC_UMKM_DETAIL}}\n\n📋 *Informasi Lengkap:*\n• Nama dan kategori usaha\n• Deskripsi produk/layanan\n• Alamat dan kontak\n• Jam operasional\n• Foto usaha (jika tersedia)\n\n💼 *Dukungan UMKM:*\n• Pelatihan usaha\n• Bantuan modal\n• Promosi produk\n• Sertifikasi halal\n\n📞 *Konsultasi UMKM:*\nBagian Ekonomi Desa: (021) 345-6789\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "8C",
+            "title": "Kategori UMKM",
+            "description": "UMKM berdasarkan kategori usaha",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📂 *KATEGORI UMKM*\n\n{{DYNAMIC_UMKM_CATEGORIES}}\n\n🏷️ *Kategori Tersedia:*\n• 🍽️ Kuliner - Warung, restoran, makanan\n• 🐟 Perikanan - Ikan segar, olahan ikan\n• 🌾 Pertanian - Kelapa sawit, ternak\n• 🎨 Kerajinan - Anyaman, souvenir\n• 🛒 Perdagangan - Toko, kelontong\n• 🔧 Jasa - Bengkel, salon, servis\n\n📊 *Statistik UMKM:*\nTotal UMKM aktif di Desa Pulosarok\n\n📞 *Informasi Kategori:*\nBagian Ekonomi Desa: (021) 345-6789\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "8D",
+            "title": "Promosi UMKM",
+            "description": "Program promosi dan bantuan UMKM",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📢 *PROGRAM PROMOSI UMKM*\n\n🎯 *Program Tersedia:*\n• Pelatihan digital marketing\n• Bantuan pembuatan website\n• Promosi di media sosial desa\n• Pameran produk UMKM\n• Kemitraan dengan toko online\n\n💰 *Bantuan Modal:*\n• Kredit mikro berbunga rendah\n• Hibah untuk usaha baru\n• Bantuan peralatan usaha\n• Program kemitraan\n\n📋 *Syarat Mengikuti:*\n• Warga Desa Pulosarok\n• Memiliki usaha aktif\n• Mengisi formulir pendaftaran\n• Mengikuti pelatihan wajib\n\n📞 *Pendaftaran:*\nBagian Ekonomi Desa: (021) 345-6789\n\n📅 *Jadwal Program:*\nSetiap bulan ada program baru\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          },
+          {
+            "id": "8E",
+            "title": "Kontak UMKM",
+            "description": "Hubungi UMKM secara langsung",
+            "content": "🏛️ *PELAYANAN DIGITAL*\ndesa pulo sarok\n\n📞 *KONTAK UMKM*\n\n{{DYNAMIC_UMKM_CONTACTS}}\n\n📱 *Cara Menghubungi:*\n• Telepon langsung ke nomor UMKM\n• WhatsApp untuk pemesanan\n• Kunjungi langsung alamat usaha\n• Melalui media sosial (jika ada)\n\n🛒 *Tips Berbelanja:*\n• Konfirmasi ketersediaan produk\n• Tanyakan harga dan promo\n• Pastikan alamat pengiriman\n• Gunakan pembayaran yang aman\n\n⭐ *Beri Rating:*\nBantu UMKM berkembang dengan memberikan ulasan positif\n\n📞 *Bantuan Kontak:*\nBagian Ekonomi Desa: (021) 345-6789\n\n📝 *Dibuat oleh Mahasiswa UMSU*"
+          }
+        ]
+      }
+    ]
+  }
+}
